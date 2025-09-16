@@ -3,7 +3,7 @@
         .container { max-width: 1200px; margin: 0 auto; padding: 0 20px; }
         header { background: #07a093; color: white; padding: 1rem 0; }
         .header-content { display: flex; gap: 320px; align-items: center; }
-        #desarrollo{scroll-margin-top: 300px;}
+        #desarrollo{scroll-margin-top: 400px;}
         nav ul { display: flex; list-style: none; }
         nav li { margin-left: 20px; }
         nav a { color: white; text-decoration: none; }
