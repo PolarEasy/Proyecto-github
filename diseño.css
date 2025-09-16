@@ -4,8 +4,8 @@
         header { background: #07a093; color: white; padding: 1rem 0; }
         .header-content { display: flex; gap: 320px; align-items: center; }
         #desarrollo{scroll-margin-top: 500px;}
-        #inicio{scroll-margin-top: 700px;}
-        #Diseño{scroll-margin-top: 700px;}
+        #inicio{scroll-margin-top: 900px;}
+        #Diseño{scroll-margin-top: 900px;}
         #sobre-nosotros{scroll-margin-top: 500px;}
 
         nav ul { display: flex; list-style: none; }
