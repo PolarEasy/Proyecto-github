@@ -39,3 +39,9 @@
         display: flex;
         gap: 100px;
        }
+        [id]::before {
+          content: "";
+          display: block;
+          height: 140px; /* altura del header */
+          margin-top: -140px;
+        }
