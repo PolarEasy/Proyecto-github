@@ -3,10 +3,7 @@
         .container { max-width: 1200px; margin: 0 auto; padding: 0 20px; }
         header { background: #07a093; color: white; padding: 1rem 0; }
         .header-content { display: flex; gap: 320px; align-items: center; }
-        #desarrollo{scroll-margin-top: 150px;}
-        #inicio{scroll-margin-top: 1000px;}
-        #diseño{scroll-margin-top: 150px;}
-        #sobre-nosotros{scroll-margin-top: 100px;}
+        
 
         nav ul { display: flex; list-style: none; }
         nav li { margin-left: 20px; }
