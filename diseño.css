@@ -5,6 +5,10 @@
         .header-content { display: flex; gap: 320px; align-items: center; }
         #desarrollo{scroll-margin-top: 400px;}
         #inicio{scroll-margin-top: 400px;}
+        #Diseño{scroll-margin-top: 400px;}
+        #sobre-nosotros{scroll-margin-top: 400px;}
+        #contacto{scroll-margin-top: 400px;}
+
         nav ul { display: flex; list-style: none; }
         nav li { margin-left: 20px; }
         nav a { color: white; text-decoration: none; }
